@@ -5,7 +5,7 @@ Base de données utilisée :
 
 J'ai utilisé le jeu de données "Traffic Prediction Dataset" que j'ai trouvé sur Kaggle (https://www.kaggle.com/datasets/hasibullahaman/traffic-prediction-dataset). Ce dataset contient des informations sur le trafic, comme l'heure, la date, le jour de la semaine, le nombre de différents véhicules (voitures, motos, bus, camions) et la situation générale du trafic.
 
-Étapes principales de mon travail :
+##Étapes:
 
 Analyse Exploratoire des Données (EDA) : J'ai commencé par charger le jeu de données, vérifier s'il y avait des valeurs manquantes et visualiser comment la variable que je veux prédire ("Traffic Situation") est distribuée.
 Prétraitement des Données : J'ai formaté les colonnes de temps et celles qui contiennent des catégories ('Time', 'Day of the week', 'Traffic Situation') pour les transformer en nombres, ce qui est nécessaire pour l'analyse.
