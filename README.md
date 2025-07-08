@@ -1,7 +1,7 @@
 # Traffic-Prediction-using-Machine-Learning-models
 Dans ce notebook, j'analyse et prédis la situation du trafic en utilisant différentes techniques de Machine Learning.
 
-**Base de données utilisée :**
+#**Base de données utilisée :**
 
 J'ai utilisé le jeu de données "Traffic Prediction Dataset" que j'ai trouvé sur Kaggle (https://www.kaggle.com/datasets/hasibullahaman/traffic-prediction-dataset). Ce dataset contient des informations sur le trafic, comme l'heure, la date, le jour de la semaine, le nombre de différents véhicules (voitures, motos, bus, camions) et la situation générale du trafic.
 
