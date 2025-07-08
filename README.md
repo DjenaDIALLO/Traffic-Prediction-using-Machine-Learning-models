@@ -7,7 +7,7 @@ J'ai utilisé le jeu de données "Traffic Prediction Dataset" que j'ai trouvé s
 
 ##Étapes:
 
-Analyse Exploratoire des Données (EDA) : J'ai commencé par charger le jeu de données, vérifier s'il y avait des valeurs manquantes et visualiser comment la variable que je veux prédire ("Traffic Situation") est distribuée.
+##1) Analyse Exploratoire des Données (EDA) : J'ai commencé par charger le jeu de données, vérifier s'il y avait des valeurs manquantes et visualiser comment la variable que je veux prédire ("Traffic Situation") est distribuée.
 Prétraitement des Données : J'ai formaté les colonnes de temps et celles qui contiennent des catégories ('Time', 'Day of the week', 'Traffic Situation') pour les transformer en nombres, ce qui est nécessaire pour l'analyse.
 Sélection des Caractéristiques : J'ai utilisé une matrice de corrélation pour voir les relations entre les différentes variables dans le dataset.
 Standardisation des Données : J'ai appliqué une standardisation sur les colonnes numériques importantes ('Time', 'Date', 'CarCount', 'BikeCount', 'BusCount', 'TruckCount') pour que leurs valeurs soient sur la même échelle.
